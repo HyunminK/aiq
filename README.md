@@ -1,1 +1,3 @@
-# aiq
+# README
+
+Some things from AIQ
